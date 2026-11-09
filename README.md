@@ -26,19 +26,6 @@ The assignment covers the following 8 problems:
 
 Two separate technical blog posts are included as part of this assignment.
 
-### Blog 1: Type Aliases vs. Interfaces in TypeScript
-
-Explains the differences between type aliases and interfaces, including syntax, declaration merging, inheritance, flexibility, and when to use each.
-
-📄 [Read Blog 1: Type Aliases vs. Interfaces](./type-aliases-vs-interfaces.md)
-
-### Blog 2: Combining Union and Intersection Types in TypeScript
-
-Explains how Union (`|`) and Intersection (`&`) types work together through a practical example involving user roles and permissions.
-
-📄 [Read Blog 2: Combining Union and Intersection Types](./combining-union-and-intersection-types.md)
-
-Two separate technical blog posts are included as part of the assignment.
 
 ### Blog 1: Type Aliases vs. Interfaces in TypeScript
 
