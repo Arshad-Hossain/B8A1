@@ -31,7 +31,7 @@ Two separate technical blog posts are included as part of this assignment.
 
 Explains the core differences between type aliases and interfaces, including syntax, declaration merging, inheritance, flexibility, and when to use each.
 
-📄 [Read Blog 1](./type-aliases-vs-interfaces.md)
+📄 [Read Blog 1](./type-vs-interfaces.md)
 
 ### Blog 2: Combining Union and Intersection Types in TypeScript
 
